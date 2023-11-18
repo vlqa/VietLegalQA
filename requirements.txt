@@ -1,0 +1,9 @@
+transformers==4.35.2
+datasets==2.15.0
+huggingface-hub==0.19.4
+stanza==1.6.1
+underthesea==6.8.0
+accelerate==0.24.1
+evaluate==0.4.1
+rouge-score==0.1.2
+tqdm==4.66.1

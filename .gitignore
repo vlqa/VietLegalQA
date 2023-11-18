@@ -2,8 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,visualstudio,visualstudiocode,python,jupyternotebooks,venv,git,virtualenv,intellij,scala
 
 ### Custom Rules: File types ###
-*.pkl
-*.json
+# *.pkl
+# *.json
 *.ipynb
 
 ### Custom Rules: Directories ###
@@ -12,6 +12,10 @@ notebooks
 test
 
 ### Custom Rules: Files ###
+tvpl_contruct.json
+tvpl_contruct.pkl
+tvpl_ViSummary_10.json
+tvpl_ViSummary.json
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
